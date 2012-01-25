@@ -2,14 +2,19 @@
 	font-family: Arial, Verdana;
 	letter-spacing: 2px;
 	font-weight: bold;
-	height: 27.5px;
+	height: 30.5px;
 	width:	340px;
 	background-image: url(ccSprite.png);
 	background-repeat: repeat-y;
-	background-position: 300px 0px;
+	background-position: 295px 0px;
 }
 .inProgress {
-	border-color: yellow;
+	border-color: #CCA300;
+}
+
+.placeholderText {
+	font-style:italic;
+	color:#CFCFD1;
 }
 
 .badCC {
