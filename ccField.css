@@ -6,7 +6,7 @@
 	width:	340px;
 	background-image: url(ccSprite.png);
 	background-repeat: repeat-y;
-	background-position: 295px 0px;
+	background-position: 295px 100px;
 }
 .inProgress {
 	border-color: #CCA300;
